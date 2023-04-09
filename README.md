@@ -25,9 +25,9 @@
 
 I am a Front-End Developer from Pakistan.
 
-- :telescope: I’m working as a Front-End Developer and a learner at The Odin Project.
+- :telescope: I’m working as a Front-End Developer at Maverick Integrated Solutions Pvt. Ltd. and a learner at The Odin Project.
 
-- :seedling: Exploring new technologies.
+- :seedling: Currently going through The Odin Project curriculum.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkdIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hamna-ishaq-2a7a791a2/)
 
