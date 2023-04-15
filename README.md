@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/hamna-ishaq-2a7a791a2/">
-        <img src="https://img.shields.io/badge/LinkdIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkdin Badge"/>
-    </a>
-  </div>
-  
   <img src="https://komarev.com/ghpvc/?username=HamnaIshaq&style=flat-square&color=blue" alt=""/>
   
   <h1>
@@ -28,8 +22,6 @@ I am a Front-End Developer from Pakistan.
 - :telescope: I’m working as a Front-End Developer at Maverick Integrated Solutions Pvt. Ltd. and a learner at The Odin Project.
 
 - :seedling: Currently going through The Odin Project curriculum.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkdIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hamna-ishaq-2a7a791a2/)
 
 ---
 
