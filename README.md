@@ -15,9 +15,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Front-End Developer from Pakistan.
-
-- :telescope: I’m working as a Front-End Developer at Maverick Integrated Solutions Pvt. Ltd. and a learner at The Odin Project.
+- :telescope: I’m working as a Front-End Developer at Maverick Integrated Solutions Pvt. Ltd.
 
 - :seedling: Currently going through The Odin Project curriculum.
 
