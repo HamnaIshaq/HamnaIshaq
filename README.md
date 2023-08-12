@@ -15,11 +15,7 @@
 
 ### :woman_technologist: About Me :
 
-<!--
-- :telescope: I’m working as a Front-End Developer at Maverick Integrated Solutions Pvt. Ltd.
--->
-
-- :seedling: Currently going through The Odin Project curriculum.
+I’m working as a Front-End Developer at Maverick Integrated Solutions Pvt. Ltd. and going through The Odin Project curriculum. I am always eager to learn more.
 
 ---
 
