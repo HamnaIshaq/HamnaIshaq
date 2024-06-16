@@ -15,20 +15,22 @@
 
 ### :woman_technologist: About Me :
 
-I’m working as a Front-End Developer at Maverick Integrated Solutions Pvt. Ltd. and going through The Odin Project curriculum. I am always eager to learn more.
+I’m working as a Software Developer. I am always trying to learn new things and improve my current skills.
+
+<!--going through The Odin Project curriculum. I am always eager to learn more.
+-->
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,jest,jquery,supabase,tailwind,vite,webpack,babel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,jest,jquery,tailwind,vite,webpack,babel,git)](https://skillicons.dev)
+
 <div>
-  
+  <!-- supabase -->
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamnaIshaq&layout=compact&theme=vision-friendly-dark)](https://github.com/HamnaIshaq/github-readme-stats)
-
-
 
 <!--
 **HamnaIshaq/HamnaIshaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
