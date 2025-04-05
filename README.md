@@ -9,13 +9,15 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
 
-I’m working as a Software Developer. I am always trying to learn new things and improve my current skills.
+I’m working as a Software Developer. I am always trying to learn new things and improve my current skills. 
+Visit my [Portfolio website](https://portfolio-hamnaishaq.vercel.app) to view some of my personal projects.
 
 <!--going through The Odin Project curriculum. I am always eager to learn more.
 -->
