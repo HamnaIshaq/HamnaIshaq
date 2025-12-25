@@ -1,4 +1,6 @@
-<div id="header" align="center">
+## Hi there 👋
+
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <h1>
@@ -11,29 +13,28 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 </div>
+-->
 
----
-
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
 
 I’m working as a Software Developer. I am always trying to learn new things and improve my current skills. 
-Visit my [Portfolio website](https://portfolio-hamnaishaq.vercel.app) to view some of my personal projects.
+Visit my [Portfolio website](https://hamna-ishaq-portfolio.vercel.app/) to view some of my personal projects.
 
 <!--going through The Odin Project curriculum. I am always eager to learn more.
 -->
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,jest,jquery,tailwind,vite,webpack,babel,git)](https://skillicons.dev)
 
 <div>
   <!-- supabase -->
 </div>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamnaIshaq&layout=compact&theme=vision-friendly-dark)](https://github.com/HamnaIshaq/github-readme-stats)
-
+-->
 <!--
 **HamnaIshaq/HamnaIshaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
